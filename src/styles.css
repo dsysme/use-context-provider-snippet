@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.home {
+  height: 100vh;
+  padding: 2rem;
+}
+.home-dark {
+  background-color: royalblue;
+  color: whitesmoke;
+}
+
+.home-light {
+  background-color: whitesmoke;
+  color: royalblue;
+}
